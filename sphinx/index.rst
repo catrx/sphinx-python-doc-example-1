@@ -6,10 +6,16 @@
 Sphinx documentation website example
 ====================================
 
+This is a description for the sphinx example website documentation.
+###################################################################
+
+This is a description for the sphinx example website documentation without the # symbols under it
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   summary
    code
 
 
