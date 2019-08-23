@@ -4,9 +4,9 @@ def func1(arg1, arg2):
 
     :param arg1: some value
     :param arg2: another value
-
     :return: arg1
-    # written in reStructurec Text doc string
+
+    # written in reStructured Text doc string
     """
     arg1 = arg2
     return arg1
